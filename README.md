@@ -1,4 +1,4 @@
-🤖 Robotic Arm Sorting System
+Robotic Arm Sorting System
 
 A Raspberry Pi Pico-based robotic arm designed to identify and sort recyclable materials based on colour.
 
