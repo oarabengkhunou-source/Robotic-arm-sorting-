@@ -26,7 +26,7 @@ Robotic Arm
    ↓
 Waste Sorting
 
-🛠️ Technologies Used
+Technologies Used
 
 * Python
 * OpenCV
